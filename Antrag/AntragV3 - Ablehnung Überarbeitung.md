@@ -40,16 +40,17 @@ Da das Projekt unter Aufsicht des Backend-Development-Teams umgesetzt wird, muss
 	3. Entscheidung einer passenden Quelle der Sicherheitslücken-Informationen
 	4. Design des Programmablaufs-Plan
 2. Entwicklung
-	1. Datenabfrage realisieren
-	2. Abfrage und Filtern von bereits dokumentierten Sicherheitslücken
-	4. Konvertierung in passendes Format für Jiras API
+	1. Abfrage der Sicherheitslücken
+	2. Filtern der Sicherheitslücken anhand konfigurierten Kriterien
+	3. Abgleich der bereits in Jira bekannten Sicherheitslücken
+	4. Konvertierung der Daten in passendes Format für Jira's API
 	5. Jira-Tickets per API erstellen
 	6. Teams der betroffenen Systeme benachrichtigen
 3. Testphase
 	1. Testlauf
 	2. Testlauf-Analyse
-	3. Eventuelle Fehlerdokumentation
-	4. Ausarbeitung möglicher Verbesserungen
+	3. Testlauf Dokumentation
+	4. Ausarbeitung von Optimierungen
 4. Dokumentation
 	1. Grundstruktur erstellen
 	2. Details Ausarbeiten
