@@ -1,14 +1,13 @@
 ### 1. Projektbezeichnung
 Programm zum Abfragen und Dokumentation von Sicherheitslücken, sowie Benachrichtigung betroffener. 
 ### 1.1 Kurzbezeichnung der Aufgabenstellung
-Ein Service, welcher neue Informationen über Sicherheitslücken abruft, konvertiert und diese dann in Jira (Issue/Bug Tracking) als Ticket einpflegt.
+Ein Service, welcher Informationen über Sicherheitslücken abruft, konvertiert und diese in Jira (Issue/Bug Tracking) als Ticket einpflegt.
 Zusätzlich sollen Teams, welche für die Administration betroffener Systeme verantwortlich sind, benachrichtigt werden, wenn eine neue Sicherheitslücke als Ticket eingepflegt wurde.
 Dadurch soll die generelle Cybersicherheit der Infrastruktur des Betriebes gestärkt werden, da öffentlich bekannte Sicherheitslücken schneller erkannt werden und relevante Informationen an einem zentralen Ort einsehbar sind.
 ### 1.2 Ist-Analyse
 Aktuell gibt es kein automatisierten Prozess, welcher sich um die Dokumentation von Sicherheitslücken sowie die Benachrichtigung der betroffenen Teams kümmert.
-Aktuell wird dieser Prozess manuell von einem Mitarbeiter ausgeführt.
+Derzeit wird dieser Prozess manuell von nur einem Mitarbeiter ausgeführt.
 Dieser prüft händisch, ob und in welchem Ausmaß die vorhandenen Systeme betroffen sind und gibt diese Information an die entsprechenden Mitarbeiter weiter.
-Derzeit wird die Aufgabe von nur einem Mitarbeiter übernommen.
 Sollte dieser verhindert sein, kann es somit vorkommen, dass bekannte Sicherheitslücken erst mit Verzögerung bearbeitet werden.
 ### 2. Zielsetzung entwickeln Soll-Konzept (optional)
 ### 2.1 Was soll am Ende des Projektes erreicht werden
