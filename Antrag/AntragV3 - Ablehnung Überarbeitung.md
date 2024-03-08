@@ -80,11 +80,6 @@ Da das Projekt unter Aufsicht des Backend-Development-Teams umgesetzt wird, muss
 	2. Details Ausarbeiten - 8h
 	3. Grafiken und Assets hinzufügen - 1h
 	4. Revision - 2h
-
-<<<<<<< HEAD
-=======
-
->>>>>>> f3745749c469d5aeb770edfe39a27863e2d9e3e4
 ### Antwort auf den Hinweis des Prüfungsausschusses:
 Die in Punkt 2.1 erwähnten Kriterien, sollen von IT-Fachpersonal konfiguriert werden, da hierzu noch kein extra Tool besteht, soll ein Strukturiertes & Menschlich lesbares Format verwendet werden sein, wie z.B. XML, JSON oder CSV.
 
